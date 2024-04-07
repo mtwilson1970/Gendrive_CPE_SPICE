@@ -1,9 +1,14 @@
 # Gendrive_CPE_SPICE
 12-day battery driving sequence for CPE-SPICE article
 
-This is the data sequence used for the 12-day driving of the battery in Section 3 of
+This is a link to the  data sequence used for the 12-day driving of the battery in Section 3 of
 the paper M.T. Wilson et al. "Rapid time-domain simulation of fractional capacitors with
 SPICE" (2024) in Journal of Computational Electronics.  See Figure 9 of the paper.
+
+Data is too large for github but the link here is to the data on a OneDrive account hosted by 
+the University of Waikato
+https://waikatouniversitynz-my.sharepoint.com/:f:/g/personal/marcus_wilson_waikato_ac_nz/ElykGoB_HVZKuVGMWztEJUEBnPBAxHAAaXtiSLfuip1HMw?e=3Xdkc8
+
 
 The file is provided in two formats. The first, labeled .tvi,  is a .csv file, consisting of three columns:
 Column 1: Time since experiment start (s)
